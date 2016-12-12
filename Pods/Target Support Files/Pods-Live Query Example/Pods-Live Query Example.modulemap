@@ -1,0 +1,6 @@
+framework module Pods_Live_Query_Example {
+  umbrella header "Pods-Live Query Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
